@@ -1,4 +1,4 @@
-Rspec.configure do |config|
+RSpec.configure do |config|
 
  #setup truncation cleaning strategy before test suite runs  
  

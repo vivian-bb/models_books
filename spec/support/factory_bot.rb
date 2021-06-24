@@ -1,4 +1,4 @@
-Rspec.configure do |config|
+RSpec.configure do |config|
     config.include FactoryBot::Syntax::Methods
 end
 
